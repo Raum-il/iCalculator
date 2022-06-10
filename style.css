@@ -1,0 +1,60 @@
+body{
+    background-color: #333333;
+}
+h1{
+    text-align: center;
+    margin: 10px;
+    color: #d4d0d0;
+    font-size: 60px;
+}
+.container{
+
+    text-align: center;
+    margin: 100px auto;
+    max-width: fit-content;
+    background-color: black;
+    padding: 10px;
+    border-radius: 15%;
+}
+input{
+    margin:15px 15px;
+    width: 200px;
+    font-size: 40px;
+    background-color: black;
+    border: none;
+}
+button{
+    border-radius: 50%;
+    width: 43px;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+}
+button:hover{
+    background-color:white ;
+    color: #333333;
+    transition: 0.7s;
+}
+.col{
+    display: block;
+}
+.oth{
+    color: black;
+    background-color: #d4d0d0;
+    font-style: bold;
+}
+.op{
+    color: white;
+    background-color: #FDA107;
+}
+.num{
+    color: white;
+    background-color: #333333;
+}
+.zero{
+    width: 100px;
+    border-radius: 75px;
+}
+
