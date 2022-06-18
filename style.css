@@ -17,6 +17,7 @@ h1{
     border-radius: 25px;
 }
 input{
+    color:white;
     margin:15px 15px;
     width: 200px;
     font-size: 40px;
@@ -42,9 +43,6 @@ button:hover{
     background-color:white ;
     color: #333333;
     transition: 0.7s;
-}
-.col{
-    display: block;
 }
 .oth{
     color: black;
