@@ -56,10 +56,20 @@ button{
     background-color: #d4d0d0;
     font-style: bold;
 }
-.op,#eq {
+#eq {
     color: white;
     background-color: #FDA107;
 }
+
+.op-col1 {
+    color: white;
+    background-color: #FDA107;
+}
+.op-col2 {
+    color: #FDA107;
+    background-color: white;
+}
+
 .num{
     color: white;
     background-color: #333333;
